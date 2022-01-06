@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Interfaces
 {
-    interface IRepository<T> where T : BaseEntity
+    public interface IRepository<T> where T : BaseEntity
     {
 
     }

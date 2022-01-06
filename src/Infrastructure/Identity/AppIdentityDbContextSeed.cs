@@ -8,8 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
 namespace Infrastructure.Identity
 {
     public static class AppIdentityDbContextSeed
