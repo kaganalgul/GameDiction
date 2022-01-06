@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="fluentvalidation" Version="10.3.6" />
+    <PackageReference Include="microsoft.AspNetCore.Identity.Entityframeworkcore" Version="5.0.13" />
+  </ItemGroup>
+
+</Project>
