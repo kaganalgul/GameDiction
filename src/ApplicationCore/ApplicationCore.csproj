@@ -2,12 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>697ee3ee-93c4-452d-9b7f-123f9e52c7fd</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Ardalis.Specification" Version="5.2.0" />
     <PackageReference Include="fluentvalidation" Version="10.3.6" />
     <PackageReference Include="microsoft.AspNetCore.Identity.Entityframeworkcore" Version="5.0.13" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
